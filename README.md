@@ -38,7 +38,7 @@ Ensure you have the camera calibration data saved as calibration_data.npz. This 
 - Navigate to the src/ directory and run the OpenCV capture and processing script
 
 
-## NOTE:
+## Note:
 #### ArUco Dictionary and Marker IDs:
 In this project, we used the DICT_6X6_250 ArUco dictionary and specific marker IDs [40, 23, 98, 124, 62, 203] in the desired order.
 
