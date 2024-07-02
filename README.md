@@ -1,5 +1,5 @@
 # Title:
-Real-time 3D Model Animation Synchronization via ArUco Marker-Based Cube Position Estimation
+Real-time 3D Model Animation in Blender Synchronization via ArUco Marker-Based Cube Position Estimation
 
 
 ## Overview:
