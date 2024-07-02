@@ -7,7 +7,7 @@ The RealTime-3D-Sync project is designed to provide accurate and real-time synch
 
 ## Demo:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uTEGHKU78Dc/0.jpg)](https://www.youtube.com/watch?v=uTEGHKU78Dc)
-https://www.youtube.com/watch?v=uTEGHKU78Dc
+- https://www.youtube.com/watch?v=uTEGHKU78Dc
 
 ## Features:
 
