@@ -7,6 +7,7 @@ The RealTime-3D-Sync project is designed to provide accurate and real-time synch
 
 ## Demo:
 [![Watch the video](https://img.shields.io/badge/Watch-Video-red)](https://www.youtube.com/watch?v=uTEGHKU78Dc)
+[![Video Title](https://img.youtube.com/vi/uTEGHKU78Dc/0.jpg)](https://www.youtube.com/watch?v=uTEGHKU78Dc "Click to Watch!")
 - https://www.youtube.com/watch?v=uTEGHKU78Dc
 
 ## Features:
