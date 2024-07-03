@@ -6,7 +6,26 @@ Real-time 3D Model Animation in Blender Synchronization via ArUco Marker-Based C
 The RealTime-3D-Sync project is designed to provide accurate and real-time synchronization between physical objects and 3D model animations. Leveraging OpenCV and Blender, this system uses ArUco marker detection to estimate the positions of real-world objects and seamlessly integrate these positions with corresponding 3D models in a virtual environment. By addressing the complex process of animation render clipping, this project enhances the realism and interaction of augmented reality (AR) applications, virtual production, gaming, and more.
 
 ## Demo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uTEGHKU78Dc?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<script src="https://cdn.jsdelivr.net/npm/can-autoplay@1.1.1/build/can-autoplay.js"></script>
+
+<script>
+  canAutoplay.video('https://www.youtube.com/watch?v=uTEGHKU78Dc', {
+    inline: true,
+    muted: true
+  }).then(result => {
+    if (result.result) {
+      const iframe = document.createElement('iframe');
+      iframe.src = 'https://www.youtube.com/embed/uTEGHKU78Dc?autoplay=1';
+      iframe.width = '560';
+      iframe.height = '315';
+      iframe.frameBorder = '0';
+      iframe.allowFullScreen = true;
+      document.body.appendChild(iframe);
+    } else {
+      console.error(result.error);
+    }
+  });
+</script>
 - https://www.youtube.com/watch?v=uTEGHKU78Dc
 
 ## Features:
